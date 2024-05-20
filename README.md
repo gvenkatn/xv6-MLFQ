@@ -75,4 +75,4 @@ We welcome contributions from the community to enhance the MLFQ implementation i
 
 Thank you for contributing to our project!
 
-**Disclaimer:** This project should not be used for university projects or plagiarism. It is meant for educational and learning purposes only.
+**Disclaimer:** This project should not be used for university coursework projects. The contributors are not responsible if individuals are caught for plagiarism or academic dishonesty while using this project for such purposes.
