@@ -49,5 +49,30 @@ chmod ugo+x ./sign.pl
 make clean
 make qemu-nox
 ```
+
+3. Run the test file
+```bash
+schdtest
+```
+
 ## Usage
 After installing the MLFQ implementation in xv6, you can test its functionality by running various user programs and observing their scheduling behavior. Additionally, you can modify the MLFQ parameters and algorithms to optimize performance for specific workloads.
+
+## Contributing
+
+We welcome contributions from the community to enhance the MLFQ implementation in xv6. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature`.
+3. Make your changes and ensure they follow the coding style and guidelines.
+4. Test your changes locally to ensure they work as expected.
+5. Commit your changes with descriptive commit messages: `git commit -m "Add new feature"`.
+6. Push your changes to your fork: `git push origin feature/new-feature`.
+7. Open a pull request against the `main` branch of this repository.
+8. Provide a clear description of your changes in the pull request, including any relevant information for reviewers.
+9. Participate in the code review process and address any feedback or comments.
+10. Once your changes are approved, they will be merged into the main repository.
+
+Thank you for contributing to our project!
+
+**Disclaimer:** This project should not be used for university projects or plagiarism. It is meant for educational and learning purposes only.
