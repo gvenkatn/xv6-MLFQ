@@ -41,12 +41,13 @@ To get started with using or contributing to this MLFQ implementation in xv6, fo
 
 ```bash
 git clone https://github.com/yourusername/mlfq-xv6.git
+```
 
 2. Follow the instructions in the xv6 documentation to build and run the operating system.
 ```bash
 chmod ugo+x ./sign.pl
 make clean
 make qemu-nox
-
+```
 ## Usage
 After installing the MLFQ implementation in xv6, you can test its functionality by running various user programs and observing their scheduling behavior. Additionally, you can modify the MLFQ parameters and algorithms to optimize performance for specific workloads.
